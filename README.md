@@ -142,7 +142,7 @@ The model's performance was evaluated using Mean Absolute Error (MAE) and Root M
      plt.show()
      ```
 
-   ![BTC Price Prediction](path_to_graph_image.png)
+   ![BTC Price Prediction](fichier_1.png)
 
 ---
 
