@@ -103,7 +103,6 @@ The chosen model architecture is a **Recurrent Neural Network (RNN)** using **LS
      ```python
      model.summary()
      ```
----
      ![model](model.png)
 
 ## Results and Evaluation
