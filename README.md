@@ -1,5 +1,3 @@
-Here’s a sample `README.md` file based on the instructions you provided:
-
 ---
 
 # Forecasting Bitcoin Prices with Time Series Analysis
