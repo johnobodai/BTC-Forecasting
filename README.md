@@ -103,8 +103,8 @@ The chosen model architecture is a **Recurrent Neural Network (RNN)** using **LS
      ```python
      model.summary()
      ```
-
 ---
+     ![model](model.png)
 
 ## Results and Evaluation
 
@@ -124,7 +124,9 @@ The model's performance was evaluated using Mean Absolute Error (MAE) and Root M
      ```python
      rmse = np.sqrt(mean_squared_error(y_test, predicted_prices))
      print(f"Root Mean Squared Error (RMSE): {rmse}")
+
      ```
+     ![MAE & RSME](maersme.png)
 
 3. **Graphical Representation**:
    - A plot was created to visualize the predicted vs. actual BTC prices.
@@ -140,7 +142,7 @@ The model's performance was evaluated using Mean Absolute Error (MAE) and Root M
      plt.show()
      ```
 
-   ![BTC Price Prediction](fichier_1.png)
+   ![BTC Price Prediction](predict.png)
 
 ---
 
